@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 10em;
+    font-family: Trajan;
+}
+
+button {
+    font-family: trajan;
+    font-size: 3em;
+    margin-bottom: 2em;
+}
+
+#timer {
+    font-family: trajan;
+    font-size: 5em;
+}
